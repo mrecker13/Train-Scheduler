@@ -1,0 +1,27 @@
+body {
+    background-image: url('../images/chevron.jpg');
+}
+
+.jumbotron {
+    background-color: teal;
+    color: white;
+    text-align: center;
+}
+
+.panel-default > .panel-heading {
+    background-color: teal;
+    color: white;
+}
+
+.panel {
+    border: 2px solid teal;
+}
+
+tbody, th {
+    text-align: center;
+}
+
+.btn {
+    background-color: gray;
+    color: white;
+}
